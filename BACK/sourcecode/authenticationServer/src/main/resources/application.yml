@@ -1,0 +1,34 @@
+server:
+  port: 8050
+  servlet:
+    context-path: /
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+      
+spring:
+  application:
+    name: auth-service
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://i6c109.p.ssafy.io:3306/CAMP?serverTimezone=Asia/Seoul
+    username: root
+    password: qorrn1!
+    
+  jpa:
+    hibernate:
+      ddl-auto: none #create update none
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: true
+    
+eureka:
+  instance:
+    instance-id: auth-microservice-instance
+
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka

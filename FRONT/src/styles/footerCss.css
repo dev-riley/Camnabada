@@ -1,0 +1,13 @@
+#wrapper {
+  position : relative;
+  height: auto;
+  min-height: 100%;
+}
+
+#footer {
+  height: 15vh;
+  position: absolute;
+  /* transform: translateY(-100%); */
+  bottom : 0;
+  width: 100%;
+}

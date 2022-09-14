@@ -1,0 +1,14 @@
+server:    
+  port: 8761
+
+#application의 이름
+spring: 
+  application:
+    name: discovery-service
+
+#해당 서버를 클라이언트로 동작할지?
+#디스커버리로 등록할지?
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false

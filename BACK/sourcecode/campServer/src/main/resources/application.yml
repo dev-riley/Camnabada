@@ -1,0 +1,50 @@
+##server.servlet.context-path=/camnabada
+#server.port=8092
+#
+#spring.datasource.driverClassName=org.mariadb.jdbc.Driver
+##spring.datasource.url=jdbc:mariadb://localhost:3306/camp
+#spring.datasource.url=jdbc:mariadb://i6c109.p.ssafy.io:3306/CAMP
+#spring.datasource.username=root
+#spring.datasource.password=root
+#
+#spring.jpa.generate-ddl=true
+#spring.jpa.hibernate.ddl-auto=none
+#
+##spring.jpa.show-sql=true
+#spring.jpa.properties.hibernate.format_sql=true
+##logging.level.org.hibernate.type.descriptor.sql.BasicBinder=trace
+
+server:
+  port: 8092
+  servlet:
+    context-path: /
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+      
+spring:
+  application:
+    name: camp-service
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://i6c109.p.ssafy.io:3306/CAMP?serverTimezone=Asia/Seoul
+    username: root
+    password: qorrn1!
+    
+  jpa:
+    hibernate:
+      ddl-auto: none #create update none
+#      naming:
+#        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    show-sql: false
+    
+#eureka:
+#  instance:
+#    instance-id: camp-microservice-instance
+#
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka

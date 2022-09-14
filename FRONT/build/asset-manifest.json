@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce349ade.css",
+    "main.js": "/static/js/main.37b7e107.js",
+    "static/media/camping11.png": "/static/media/camping11.290e585716cd7339f6ab.png",
+    "static/media/camping_Area.png": "/static/media/camping_Area.5f90e96fe40fb3cb4ac1.png",
+    "static/media/camping1.jpg": "/static/media/camping1.89aebd8cdf244a32c6e3.jpg",
+    "static/media/fire.png": "/static/media/fire.0e5da16b25c8a6fbf5e9.png",
+    "static/media/camping4.jpg": "/static/media/camping4.0bbf654c20b3c1947b84.jpg",
+    "static/media/camping2.jpg": "/static/media/camping2.3e9743978960538f6c21.jpg",
+    "static/media/camping5.jpg": "/static/media/camping5.677b276856efed57c58d.jpg",
+    "static/media/camping3.jpg": "/static/media/camping3.a93f7861c9b2067847df.jpg",
+    "static/media/social_media.png": "/static/media/social_media.eb6ffbedd6b1c4d93be6.png",
+    "static/media/dog.png": "/static/media/dog.6941539a6df1ac0df7a3.png",
+    "static/media/share1.png": "/static/media/share1.7a5e203a37aa34a468e6.png",
+    "static/media/CampingDefaultImage.png": "/static/media/CampingDefaultImage.5efc315fbf44ac61f013.png",
+    "static/media/logo.png": "/static/media/logo.dc61a5de61946aa67907.png",
+    "static/media/message.png": "/static/media/message.ebe8bf88cc27b28bcf5b.png",
+    "static/media/community.png": "/static/media/community.e65385ad22d090bddc34.png",
+    "static/media/logout.png": "/static/media/logout.d546cd046e9d11e86310.png",
+    "static/media/signup.png": "/static/media/signup.429608718dabcc51f1a6.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.ce349ade.css.map": "/static/css/main.ce349ade.css.map",
+    "main.37b7e107.js.map": "/static/js/main.37b7e107.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce349ade.css",
+    "static/js/main.37b7e107.js"
+  ]
+}
