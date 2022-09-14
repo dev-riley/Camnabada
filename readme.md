@@ -40,6 +40,5 @@
 
 
 
-#### 프로젝트 소개 동영상
 
-<video src="C:\Users\qlrqo\OneDrive\바탕 화면\SSAFY\2학기\공통\캠나바다 최종.mp4"></video>
+
