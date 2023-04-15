@@ -2,9 +2,9 @@
 
 #### 부제 : 캠핑 나누고 바꾸고 다시쓰자!!
 
-
-
-## 캠핑을 즐기는 사람들을 위한 커뮤니티
+<h2 align="center">
+    캠핑을 즐기는 사람들을 위한 커뮤니티
+</h2>
 
 ![mainpage](https://user-images.githubusercontent.com/82032072/232197482-0f6bdcdf-114f-4ef9-846d-e8c1f7e44030.png)
 
