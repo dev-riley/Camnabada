@@ -1,7 +1,9 @@
 # 캠나바다(CAM:NABADA)
 
 #### 부제 : 캠핑 나누고 바꾸고 다시쓰자!!
-### 
+
+
+
 ## 캠핑을 즐기는 사람들을 위한 커뮤니티
 
 ![mainpage](https://user-images.githubusercontent.com/82032072/232197482-0f6bdcdf-114f-4ef9-846d-e8c1f7e44030.png)
@@ -63,24 +65,30 @@
 
 - 정규표현식을 사용해 회원가입과 로그인의 유효성 검사를 구현하였습니다.
 
-  ```html
+
    <div style="text-align: center;">
     <img
     src="https://user-images.githubusercontent.com/82032072/232183285-de3fd109-75f9-4757-b13d-aed338ad87ae.gif">
    </div>
-  ```
 
-  
-
-![회원가입__로그인_AdobeExpress](https://user-images.githubusercontent.com/82032072/232183285-de3fd109-75f9-4757-b13d-aed338ad87ae.gif)
 
 - 게시글 글 작성 구현시, React-Quill 라이브러리를 적용해서 사용자가 훨씬 쉽고 다양한 방식으로 글을 작성할 수 있게 했습니다. fileReader와 formData로 이미지를 담아 서버로 보낼 수는 있었지만 미리보기까지 구현을 못해서 좀 아쉬웠던 페이지입니다.
 
-![게시글_작성_AdobeExpress](https://user-images.githubusercontent.com/82032072/232194335-79e83246-366e-43de-af4e-840735488145.gif)
+<div style="text-align: center;">
+    <img
+    src="https://user-images.githubusercontent.com/82032072/232194335-79e83246-366e-43de-af4e-840735488145.gif">
+   </div>
+
+
 
 - 회원 정보 수정 페이지
 
-  ![회원_정보_수정_AdobeExpress](https://user-images.githubusercontent.com/82032072/232194864-e9f58f2e-285c-4d20-80d8-d3124ddc91e0.gif)
+
+  <div style="text-align: center;">
+      <img
+      src="https://user-images.githubusercontent.com/82032072/232194864-e9f58f2e-285c-4d20-80d8-d3124ddc91e0.gif">
+  </div>
+
 
 ![line](https://user-images.githubusercontent.com/82032072/232197445-de6d87f9-9969-4790-8eb4-ade5d724e54d.png)
 
