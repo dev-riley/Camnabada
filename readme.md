@@ -41,7 +41,7 @@
 
   `React` `Javascript`
 
-- Back-end\
+- Back-end
 
   `SpringBoot` `Gateway` 
 
@@ -62,6 +62,15 @@
 회원가입, 로그인, 게시글 작성, 회원 정보 수정 담당했습니다.
 
 - 정규표현식을 사용해 회원가입과 로그인의 유효성 검사를 구현하였습니다.
+
+  ```html
+   <div style="text-align: center;">
+    <img
+    src="https://user-images.githubusercontent.com/82032072/232183285-de3fd109-75f9-4757-b13d-aed338ad87ae.gif">
+   </div>
+  ```
+
+  
 
 ![회원가입__로그인_AdobeExpress](https://user-images.githubusercontent.com/82032072/232183285-de3fd109-75f9-4757-b13d-aed338ad87ae.gif)
 
