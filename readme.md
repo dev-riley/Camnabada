@@ -4,9 +4,9 @@
 ### 
 ## 캠핑을 즐기는 사람들을 위한 커뮤니티
 
-![mainpage](./기획 및 설계/image/mainpage.png)
+![mainpage](https://user-images.githubusercontent.com/82032072/232197482-0f6bdcdf-114f-4ef9-846d-e8c1f7e44030.png)
 
-![line](./기획 및 설계/image/line.png)
+![line](https://user-images.githubusercontent.com/82032072/232197445-de6d87f9-9969-4790-8eb4-ade5d724e54d.png)
 
 ## 📖 프로젝트 기획 의도 및 배경
 
@@ -14,7 +14,7 @@
 
 
 
-![line](./기획 및 설계/image/line.png)
+![line](https://user-images.githubusercontent.com/82032072/232197445-de6d87f9-9969-4790-8eb4-ade5d724e54d.png)
 
 ## ✨ 프로젝트 소개
 
@@ -22,7 +22,7 @@
 
  
 
-![line](./기획 및 설계/image/line.png)
+![line](https://user-images.githubusercontent.com/82032072/232197445-de6d87f9-9969-4790-8eb4-ade5d724e54d.png)
 
 ## 🌿 개발 기간 및 팀원
 
@@ -33,7 +33,7 @@
 
 
 
-![line](./기획 및 설계/image/line.png)
+![line](https://user-images.githubusercontent.com/82032072/232197445-de6d87f9-9969-4790-8eb4-ade5d724e54d.png)
 
 ## ⚒️ 기술 스택
 
@@ -55,7 +55,7 @@
 
 
 
-![line](./기획 및 설계/image/line.png)
+![line](https://user-images.githubusercontent.com/82032072/232197445-de6d87f9-9969-4790-8eb4-ade5d724e54d.png)
 
 ## 🔖 담당했던 Part
 
@@ -73,11 +73,11 @@
 
   ![회원_정보_수정_AdobeExpress](https://user-images.githubusercontent.com/82032072/232194864-e9f58f2e-285c-4d20-80d8-d3124ddc91e0.gif)
 
-![line](./기획 및 설계/image/line.png)
+![line](https://user-images.githubusercontent.com/82032072/232197445-de6d87f9-9969-4790-8eb4-ade5d724e54d.png)
 
 ### ✍️ 페이지별 상세 내용 : [바로가기](https://www.notion.so/dayelee/b1449d4872dd4773a23d684e6c29c7a7?pvs=4)
 
-![line](./기획 및 설계/image/line.png)
+
 
 
 
